@@ -1,0 +1,58 @@
+﻿TASK 3
+
+
+HTML PROGRAM USING HR TAG:
+
+
+Html code:
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>HR Tag </title>
+    <link rel="stylesheet" href="hr_tag.css">
+
+
+</head>
+<body>
+    <h1>HTML PROGRAM USING HR TAG </h1>
+    <p>Hi, all I am Deepthi</p>
+    <hr>
+    <p>I am pursuing MCA in Jyoti Nivas College</p>
+    <p>I am passionate about technology and its applications in everyday life.
+         With a background in computer science, I thrive on solving complex problems through coding and logical reasoning. </p>
+    <hr>
+    <p>Beyond my technical skills, I am a creative thinker who enjoys exploring new ideas and approaches.</p>
+</body>
+</html>
+
+
+Css code:
+
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body {
+    font-family: Arial, sans-serif;
+    line-height: 5;
+    background-color: rgb(241, 181, 173);
+}
+p{
+    font-size: larger;
+    color: rgb(14, 2, 2);
+    font-family:cursive;
+    line-height: 4;
+}
+h1{
+    font-size: 50;
+    font-family: cursive;
+}
+
+
+Output:
